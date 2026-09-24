@@ -1,0 +1,4 @@
+Column,BanglaBERT Accuracy (%),BanglaBERT F1 (%),Best ML (SGD),Best DL (BiLSTM),BanglaBERT beats both?,Best ML (KNN),Best DL (LSTM),Best ML (SGD/Multi-NB),Best DL (BiLSTM/CNN/CNN-LSTM)
+academic,87.5,86.11,95.0,92.5,No,,,,
+mental,92.5,92.68,,,No,93.75,98.75,,
+social,93.75,93.83,,,No,,,95.0,92.5
